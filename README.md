@@ -2,5 +2,7 @@
 # Database Project
 Program Execution
 
-* First Readme file!
+```
+java -cp  ".;mysql-connector-java-5.1.48-bin.jar" EmployeeSearchFrame
+```
   
