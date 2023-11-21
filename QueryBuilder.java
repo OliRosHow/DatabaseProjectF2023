@@ -1,3 +1,4 @@
+//didn't end up using this, but it exists for educational purposes I guess ¯\_(ツ)_/¯
 public class QueryBuilder 
 {
     String query = "SELECT Fname, Lname, Pname, Dname FROM ((EMPLOYEE JOIN WORKS_ON ON Ssn = Essn) JOIN PROJECT ON Pno = Pnumber) JOIN DEPARTMENT ON Dno = Dnum"; //base query gives all names with repeats if the employee works on multible projects
