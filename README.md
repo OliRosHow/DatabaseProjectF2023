@@ -3,7 +3,7 @@
 
 ## Quick Start ##
 
-First you will need to extract the contents of the "mysql-connector-java-5.1.48" folder to the same directory that EmployeeSearchFramejava exists
+First you will need to extract the contents of the "mysql-connector-java-5.1.48" folder to the same directory that EmployeeSearchFramejava exists. Next, add your username and password to the database.props file and save the document.
 
 After that:
 ```
