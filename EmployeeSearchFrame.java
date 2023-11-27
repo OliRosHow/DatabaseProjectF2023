@@ -288,8 +288,8 @@ public class EmployeeSearchFrame extends JFrame {
                 // Clear the text area
                 textAreaEmployee.setText("");
                 // Clear the department and project lists
-                department.removeAllElements();
-                project.removeAllElements();
+                lstDepartment.clearSelection();
+                lstProject.clearSelection();
                 // Uncheck the "Not" checkboxes
                 chckbxNotDept.setSelected(false);
                 chckbxNotProject.setSelected(false);
